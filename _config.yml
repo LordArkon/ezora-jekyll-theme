@@ -7,6 +7,9 @@ github:  ezrasavard
 linkedin: ezrasavard
 favicon: favicon.png
 
+
+
+
 # Build settings
 paginate: 3
 baseurl: "/ezorademo" # the subpath of your site, e.g. /blog/
